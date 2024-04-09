@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Maleski"
+  given-names: "Jerome"
+title: "Percent Green Threshold Viewer"
+version: 1.0.0
+date-released: 2020-10-06
+url: "https://github.com/jeromemaleski/percent_green_viewer"
